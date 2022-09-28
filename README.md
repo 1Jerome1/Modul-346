@@ -26,3 +26,8 @@
 <h2>Private Cloud</h2>
 <p>Möchtest du gerne mehr über die Private Cloud erfahren, dann klicke auf den folgenden Link.</p>
 <a href="https://github.com/1Jerome1/Modul-346/blob/main/Private%20Cloud.md" > Was ist eine Private Cloud? </a>
+
+<h2>Hybrid Cloud</h2>
+<p>Möchtest du gerne mehr über die Hybrid Cloud erfahren, dann klicke auf den folgenden Link.</p>
+<a href="https://github.com/1Jerome1/Modul-346/blob/main/Hybrid%20Cloud.md" > Was ist eine Hybrid Cloud? </a>
+
