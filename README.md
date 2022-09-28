@@ -22,3 +22,7 @@
 <h2>Public Cloud</h2>
 <p>Möchtest du gerne mehr über die Public Cloud erfahren, dann klicke auf den folgenden Link.</p>
 <a href= "https://github.com/1Jerome1/Modul-346/blob/main/PublicCloud.md" > Was ist eine Public Cloud? </a>
+
+<h2>Private Cloud</h2>
+<p>Möchtest du gerne mehr über die Private Cloud erfahren, dann klicke auf den folgenden Link.</p>
+<a href="" > Was ist eine Private Cloud? </a>
