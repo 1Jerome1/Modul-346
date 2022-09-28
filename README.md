@@ -18,3 +18,7 @@
 <h2>OnPremise</h2>
 <p>Möchtest du gerne mehr über OnPremise erfahren, dann klicke auf den folgenden Link.</p>
 <a href="https://github.com/1Jerome1/Modul-346/blob/main/OnPremise.md" > Was ist OnPremise? </a>
+
+<h2>Public Cloud</h2>
+<p>Möchtest du gerne mehr über die Public Cloud erfahren, dann klicke auf den folgenden Link.</p>
+<a href= "https://github.com/1Jerome1/Modul-346/blob/main/PublicCloud.md" > Was ist eine Public Cloud? </a>
